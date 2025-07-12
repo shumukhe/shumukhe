@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shumukhe" alt="shumukhe" /></a> </p>
 
-- 🌱 I’m currently learning **AGENTIC AI,GEN AI,NLP,Machine Learning**
+- 🌱 I’m currently learning **AGENTIC AI, GEN AI, NLP, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shumukhe](https://github.com/shumukhe)
 
